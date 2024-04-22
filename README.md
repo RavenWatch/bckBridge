@@ -4,7 +4,8 @@ Realizado por JÚLIO CÉSAR DE FREITAS RAPOSO
 
 Sistemas de Informação UFSC
 
-Utilizei Nest.JS para o backend 
+Utilizei Nest.JS para o backend para que fosse possível realizar
+o deploy na Vercel 
 
 Para rodar basta instalar os pacotes presente no node_modules
 e depois executá-lo com npm start
